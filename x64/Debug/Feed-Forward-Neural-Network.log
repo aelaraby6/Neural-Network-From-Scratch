@@ -1,0 +1,9 @@
+﻿  Layer.cpp
+D:\college\second year\Ai\project\Feed-Forward-Neural-Network\Feed-Forward-Neural-Network\Layer.cpp(53,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\college\second year\Ai\project\Feed-Forward-Neural-Network\Feed-Forward-Neural-Network\Layer.cpp(64,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\college\second year\Ai\project\Feed-Forward-Neural-Network\Feed-Forward-Neural-Network\Layer.cpp(89,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\Ai\project\Feed-Forward-Neural-Network\Feed-Forward-Neural-Network\Layer.cpp(89,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\college\second year\Ai\project\Feed-Forward-Neural-Network\Feed-Forward-Neural-Network\Layer.cpp(99,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Feed-Forward-Neural-Network.vcxproj -> D:\college\second year\Ai\project\Feed-Forward-Neural-Network\x64\Debug\Feed-Forward-Neural-Network.exe
