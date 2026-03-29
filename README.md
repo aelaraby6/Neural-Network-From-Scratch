@@ -190,8 +190,7 @@ This example demonstrates a simple neural network with an input layer, two hidde
 
     ```cpp
     Matrix output = network.forwardNN();
-    cout << "Network output:
-" << output << endl;
+    cout << "Network output:" << output << endl;
     ```
 
 ## Future Enhancements
